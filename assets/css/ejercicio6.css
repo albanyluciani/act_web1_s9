@@ -1,0 +1,20 @@
+/* Estilos para el ejercicio 6 */
+.contenedor {
+  width: 200px;
+  height: 100px;
+  background: #bde0fe;
+  color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 1.2em;
+  border-radius: 10px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.resaltado {
+  background: #ffb4a2;
+  color: #fff;
+  border: 2px solid #ff006e;
+}
